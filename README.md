@@ -2,7 +2,7 @@
 ## Purpose
 As Des Moines is looking to implement a bike ride share program, an analysis was done on the denisty, demographic make up, and logistics of the Citi Bike Sharing program in New York, NY. The analysis was framed around how to best implement a similar program in Des Moines.
 ## Results
-For a full visual dashboard of the data, please [Click Here]("https://public.tableau.com/app/profile/rafael.peterson/viz/NYCCitiBikesAnalysis/NYCCitiBikesAnalysis").
+For a full visual dashboard of the data, please [Click Here](https://public.tableau.com/app/profile/rafael.peterson/viz/NYCCitiBikesAnalysis/NYCCitiBikesAnalysis).
 ## Summary
 In the NY data there are some major trends to take into consideration. 
 * There was a large majority of male riders.
